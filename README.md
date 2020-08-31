@@ -24,3 +24,5 @@ logo após isso o sistema informa qual é o valor total com juros e as parcelas.
 feito isso você será redirecionado para as duas opções anteriores, selecionando a opção de acompanhar o empréstimo, apos selecionar será informado se a sua solicitação passou nos critérios de validação para poder pegar, o valor solicitado.
 
 feito tudo isso chegamos ao fim do sistema.
+
+OBS: para poder saber se foi aprovado o valor do empréstimo, foi usado a base de 35% do salário da pessoa, caso o valor da parcela exceder os 35% será negado o empréstimo.
