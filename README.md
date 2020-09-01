@@ -3,6 +3,10 @@ Prova TQI Sistema de Analise de Crédito
 
 
 
+ESCOLHI A PROGRAMAÇÃO POIS TENHO MAIS DOMÍNIO E A LINGUAGEM SER JAVA QUE GOSTO BASTANTE, COM ISSO ACREDITO QUE CONSEGUI DESENVOLVER ALGO BOM PARA PODER SER AVALIADO. 
+
+
+
 Neste projeto faço um sistema de analise de credito levando em conta prestação fixa, onde o usuario faz seu cadastro, se conecta no perfil, solicita o emprestimo e acompanha se foi aprovado ou não.
 
 Tutorial para usar o sistema:
